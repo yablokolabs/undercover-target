@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "networks": {
+    "undercover_secret_v1": {},
+    "undercover_secret_v2": {},
+    "undercover_discount_v1": {},
+    "undercover_discount_v2": {},
+    "undercover_approval_v1": {},
+    "undercover_approval_v2": {}
+  }
+}
